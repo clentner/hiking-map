@@ -1,0 +1,208 @@
+{
+    "maps": [
+        {
+            "id": 52222240,
+            "name": "Recording - Sep 13, 03:25 PM",
+            "description": null,
+            "description_lang": null,
+            "description_original": null,
+            "description_source": null,
+            "presentationType": "track",
+            "slug": "recording-sep-13-03-25-pm-71969a8",
+            "created_at": "2020-09-13T16:36:29Z",
+            "timezone": null,
+            "location": {
+                "postalCode": null,
+                "city": "Lincoln",
+                "region": "NH",
+                "country": "US",
+                "country_id": 313,
+                "latitude": "44.12023",
+                "longitude": "-71.68284"
+            },
+            "bounds": {
+                "latitudeTopLeft": "44.12607",
+                "latitudeBottomRight": "44.11963",
+                "longitudeTopLeft": "-71.6952",
+                "longitudeBottomRight": "-71.68128"
+            },
+            "trailId": 10002760,
+            "activity": {
+                "description": "",
+                "name": "Hiking",
+                "uid": "hiking",
+                "bitfieldPosition": 7,
+                "displayPriority": 11,
+                "type": "activity"
+            },
+            "rating": 5,
+            "difficulty": null,
+            "comment": null,
+            "obstacles": [],
+            "ratingAttributes": [],
+            "infoAttributes": [],
+            "user": {
+                "id": 29754908,
+                "private": false,
+                "username": "chris-lentner",
+                "firstName": "Chris",
+                "lastName": "Lentner",
+                "slug": "chris-lentner",
+                "admin": false,
+                "permissions": null,
+                "metric": false,
+                "displaySpeed": false,
+                "profilePhoto": null,
+                "pro": true,
+                "isPromoEligible": false,
+                "marketingLangPreference": "en",
+                "location": {
+                    "city": "New Hampton",
+                    "regionName": "New Hampshire",
+                    "countryName": "United States",
+                    "country": "US"
+                },
+                "email_none": true,
+                "created": "2020-07-25T16:15:16Z",
+                "garminConnected": true
+            },
+            "dataUid": "cf6fa66b-feaa-4574-ba96-d96f320ae6f8",
+            "associatedTrailReviewId": 10837359,
+            "originalAtMapId": 0,
+            "private": false,
+            "contentPrivacy": "urn:alltrails:visibility:public",
+            "hidden": null,
+            "popularity": 0.0636,
+            "summaryStats": {
+                "calories": 1036.0,
+                "duration": 119,
+                "timeTotal": 9879.0,
+                "updatedAt": "2024-08-25T20:49:00Z",
+                "timeMoving": 7167.0,
+                "paceAverage": 1.6516755276857875,
+                "elevationMax": 630.0,
+                "speedAverage": 0.60544579321892,
+                "distanceTotal": 4339.23,
+                "elevationGain": 183.0,
+                "elevationLoss": 172.0
+            },
+            "profilePhotoId": null,
+            "photoCount": 0,
+            "metadata": {
+                "created": "2020-09-13T16:36:29Z",
+                "updated": "2024-06-29T18:33:08Z",
+                "status": "A",
+                "source": 1001,
+                "timezone": null,
+                "cursor": "eyJjcmVhdGVkX2F0IjoiMjAyMC0wOS0xMyAxNjozNjoyOSIsImlkIjo1MjIyMjI0MCwicmF0aW5nIjo1fQ=="
+            }
+        },
+        {
+            "id": 47703643,
+            "name": "Recording - Jul 25, 07:02 PM",
+            "description": null,
+            "description_lang": null,
+            "description_original": null,
+            "description_source": null,
+            "presentationType": "track",
+            "slug": "recording-jul-25-07-02-pm-0d98b59",
+            "created_at": "2020-07-25T17:14:59Z",
+            "timezone": null,
+            "location": {
+                "postalCode": null,
+                "city": "Warren",
+                "region": "NH",
+                "country": "US",
+                "country_id": 313,
+                "latitude": "43.98143",
+                "longitude": "-71.82442"
+            },
+            "bounds": {
+                "latitudeTopLeft": "44.02343",
+                "latitudeBottomRight": "43.98129",
+                "longitudeTopLeft": "-71.84098",
+                "longitudeBottomRight": "-71.81425"
+            },
+            "trailId": 10017308,
+            "activity": {
+                "description": "",
+                "name": "Hiking",
+                "uid": "hiking",
+                "bitfieldPosition": 7,
+                "displayPriority": 11,
+                "type": "activity"
+            },
+            "rating": 5,
+            "difficulty": null,
+            "comment": null,
+            "obstacles": [],
+            "ratingAttributes": [],
+            "infoAttributes": [],
+            "user": {
+                "id": 29754908,
+                "private": false,
+                "username": "chris-lentner",
+                "firstName": "Chris",
+                "lastName": "Lentner",
+                "slug": "chris-lentner",
+                "admin": false,
+                "permissions": null,
+                "metric": false,
+                "displaySpeed": false,
+                "profilePhoto": null,
+                "pro": true,
+                "isPromoEligible": false,
+                "marketingLangPreference": "en",
+                "location": {
+                    "city": "New Hampton",
+                    "regionName": "New Hampshire",
+                    "countryName": "United States",
+                    "country": "US"
+                },
+                "email_none": true,
+                "created": "2020-07-25T16:15:16Z",
+                "garminConnected": true
+            },
+            "dataUid": "e5d385ef-c22f-4f2a-910f-9c8080ce5726",
+            "associatedTrailReviewId": 9745832,
+            "originalAtMapId": 0,
+            "private": false,
+            "contentPrivacy": "urn:alltrails:visibility:public",
+            "hidden": null,
+            "popularity": 0.0616,
+            "summaryStats": {
+                "calories": 2315.0,
+                "duration": 267,
+                "timeTotal": 18929.0,
+                "updatedAt": "2024-08-25T20:49:00Z",
+                "timeMoving": 16017.0,
+                "paceAverage": 1.0197727811012554,
+                "elevationMax": 1461.0,
+                "speedAverage": 0.9806106012361866,
+                "distanceTotal": 15706.44,
+                "elevationGain": 859.0,
+                "elevationLoss": 875.0
+            },
+            "profilePhotoId": null,
+            "photoCount": 0,
+            "metadata": {
+                "created": "2020-07-25T17:14:59Z",
+                "updated": "2024-06-29T18:33:08Z",
+                "status": "A",
+                "source": 1001,
+                "timezone": null,
+                "cursor": "eyJjcmVhdGVkX2F0IjoiMjAyMC0wNy0yNSAxNzoxNDo1OSIsImlkIjo0NzcwMzY0MywicmF0aW5nIjo1fQ=="
+            }
+        }
+    ],
+    "meta": {
+        "status": "ok",
+        "items": 82,
+        "timestamp": "2024-09-27T21:16:52Z"
+    },
+    "pageInfo": {
+        "totalItemCount": 2,
+        "itemCount": 2,
+        "hasNextPage": false
+    }
+}
