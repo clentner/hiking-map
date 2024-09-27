@@ -53,13 +53,20 @@ for gpx_file in os.listdir(gpx_folder):
                     points = []
                     for point in segment.points:
                         points.append((point.latitude, point.longitude))
-                    
+                    for i in range(len(segment.points) - 1):
+                        start = (segment.points[i].latitude, segment.points[i].longitude)
+                        end = (segment.points[i + 1].latitude, segment.points[i + 1].longitude)
+
+                        # calculate the distance between consecutive points
+                        total_length_miles += geodesic(start, end).miles
+
                     # add the track as a line on the map
                     color = "orange" if "DEFAULT" in gpx_file else "red"
                     folium.PolyLine(points, color=color, weight=2.5, opacity=1).add_to(my_map)
 
 # save the map to an html file
 my_map.save('hiking_map.html')
+print(f"Total length of all GPX tracks: {total_length_miles:.2f} miles")
 
 print("Map created! Open 'hiking_map.html' to view it.")
 
