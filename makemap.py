@@ -47,38 +47,40 @@ my_map = folium.Map(
 )
 m = my_map
 #Add the Stadia Maps Stamen Toner provider details via xyzservices
-tile_provider = xyz.Stadia.StamenTerrain
-folium_key = os.environ['FOLIUM_KEY']
-tile_provider["url"] = tile_provider["url"] + "?api_key=" + folium_key
+folium_key = os.environ.get('FOLIUM_KEY', False)
+if folium_key:
+    tile_provider = xyz.Stadia.StamenTerrain
+    tile_provider["url"] = tile_provider["url"] + "?api_key=" + folium_key
 
-#Create the folium TileLayer, specifying the API key
-folium.TileLayer(
-    tiles=tile_provider.build_url(api_key=folium_key),
-    attr=tile_provider.attribution,
-    name=tile_provider.name,
-    max_zoom=tile_provider.max_zoom,
-    detect_retina=True
-).add_to(m)
+    #Create the folium TileLayer, specifying the API key
+    folium.TileLayer(
+        tiles=tile_provider.build_url(api_key=folium_key),
+        attr=tile_provider.attribution,
+        name=tile_provider.name,
+        max_zoom=tile_provider.max_zoom,
+        detect_retina=True
+    ).add_to(m)
 
 # Let's try some other layers
-thunderforest_key = os.environ['THUNDERFOREST_KEY']
-folium.TileLayer(
-    tiles="https://tile.thunderforest.com/landscape/{z}/{x}/{y}.png?apikey=" + thunderforest_key,
-    attr="Thunderforest",
-    name="Thunderforest landscape"
-).add_to(m)
-
-folium.TileLayer(
-    tiles='https://basemap.nationalmap.gov/arcgis/rest/services/USGSTopo/MapServer/tile/{z}/{y}/{x}',
-	max_zoom = 20,
-    name="USGS Topo",
-	attr='Tiles courtesy of the <a href="https://usgs.gov/">U.S. Geological Survey</a>'
-).add_to(m)
+thunderforest_key = os.environ.get('THUNDERFOREST_KEY', False)
+if thunderforest_key:
+    folium.TileLayer(
+        tiles="https://tile.thunderforest.com/landscape/{z}/{x}/{y}.png?apikey=" + thunderforest_key,
+        attr="Thunderforest",
+        name="Thunderforest landscape"
+    ).add_to(m)
 
 folium.TileLayer(
     tiles="https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png",
     attr="OpenTopoMap",
-    name="OpenTopMap"
+    name="OpenTopoMap"
+).add_to(m)
+
+folium.TileLayer(
+    tiles='https://basemap.nationalmap.gov/arcgis/rest/services/USGSTopo/MapServer/tile/{z}/{y}/{x}',
+    max_zoom = 20,
+    name="USGS Topo",
+    attr='Tiles courtesy of the <a href="https://usgs.gov/">U.S. Geological Survey</a>'
 ).add_to(m)
 
 folium.LayerControl().add_to(m)
@@ -86,8 +88,9 @@ folium.LayerControl().add_to(m)
 total_length_miles = 0.0
 
 # iterate over all gpx files in the folder
-for gpx_file in os.listdir(gpx_folder):
+for gpx_file in sorted(os.listdir(gpx_folder)):
     if gpx_file.endswith('.gpx'):
+        print(f'drawing {gpx_file}')
         file_path = os.path.join(gpx_folder, gpx_file)
         
         # open and parse the gpx file
@@ -114,12 +117,16 @@ for gpx_file in os.listdir(gpx_folder):
                     # add the track as a line on the map
                     color = "orange" if "DEFAULT" in gpx_file else "red"
                     # add the track as a clickable polyline
-                    popup = folium.Popup(f'<a href="{url}" target="_blank">View on AllTrails</a>') if url else None
+                    popup = folium.Popup(f'<a href="{url}" target="_blank">{gpx_file}</a>') if url else None
                     folium.PolyLine(points, color=color, weight=2.5, opacity=1, popup=popup).add_to(my_map)
 
 # save the map to an html file
-my_map.save('hiking_map.html')
+if os.environ.get('FOLIUM_KEY') or os.environ.get('THUNDERFOREST_KEY'):
+    output_file = 'hiking_map.html'
+else:
+    output_file = 'public_hiking_map.html'
+my_map.save(output_file)
 print(f"Total length of all GPX tracks: {total_length_miles:.2f} miles")
 
-print("Map created! Open 'hiking_map.html' to view it.")
+print(f"Map created! Open '{output_file}' to view it.")
 
