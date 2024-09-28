@@ -76,7 +76,9 @@ folium.TileLayer(
 ).add_to(m)
 
 folium.TileLayer(
-    tiles="https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png", attr="OpenTopoMap"
+    tiles="https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png",
+    attr="OpenTopoMap",
+    name="OpenTopMap"
 ).add_to(m)
 
 folium.LayerControl().add_to(m)
