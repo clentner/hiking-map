@@ -38,7 +38,7 @@ def match_gpx_to_json(gpx_filename):
 
 
 # create a map object (centered roughly in the White Mountains)
-map_center = [44.0, -71.0]  # adjust if needed
+map_center = [44.13,-71.52]
 my_map = folium.Map(
     location=map_center,
     zoom_start=10,
@@ -95,7 +95,7 @@ def add_polyline_with_buffer(points, color, url=None):
         popup = folium.Popup(f'<a href="{url}" target="_blank">{gpx_file}</a>')
 
         # add the wider invisible polyline for larger click area and attach the popup to it
-        folium.PolyLine(points, color="transparent", weight=5, opacity=0, popup=popup).add_to(my_map)
+        folium.PolyLine(points, color="transparent", weight=10, opacity=0, popup=popup).add_to(my_map)
 
 
 total_length_miles = 0.0
