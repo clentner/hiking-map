@@ -46,7 +46,7 @@ my_map = folium.Map(
 #    attr="OpenTopoMap"
 )
 m = my_map
-#Add the Stadia Maps Stamen Toner provider details via xyzservices
+#Add the Stadia Maps Stamen Terrain provider details via xyzservices
 folium_key = os.environ.get('FOLIUM_KEY', False)
 if folium_key:
     tile_provider = xyz.Stadia.StamenTerrain
@@ -85,6 +85,19 @@ folium.TileLayer(
 
 folium.LayerControl().add_to(m)
 
+# function to add polylines to the map with a larger clickable area
+def add_polyline_with_buffer(points, color, url=None):
+    # add the visible polyline first
+    folium.PolyLine(points, color=color, weight=2.5, opacity=1).add_to(my_map)
+
+    # create a popup with a link, if there's a URL
+    if url:
+        popup = folium.Popup(f'<a href="{url}" target="_blank">{gpx_file}</a>')
+
+        # add the wider invisible polyline for larger click area and attach the popup to it
+        folium.PolyLine(points, color="transparent", weight=5, opacity=0, popup=popup).add_to(my_map)
+
+
 total_length_miles = 0.0
 
 # iterate over all gpx files in the folder
@@ -117,8 +130,7 @@ for gpx_file in sorted(os.listdir(gpx_folder)):
                     # add the track as a line on the map
                     color = "orange" if "DEFAULT" in gpx_file else "red"
                     # add the track as a clickable polyline
-                    popup = folium.Popup(f'<a href="{url}" target="_blank">{gpx_file}</a>') if url else None
-                    folium.PolyLine(points, color=color, weight=2.5, opacity=1, popup=popup).add_to(my_map)
+                    add_polyline_with_buffer(points, color, url)
 
 # save the map to an html file
 if os.environ.get('FOLIUM_KEY') or os.environ.get('THUNDERFOREST_KEY'):
