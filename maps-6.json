@@ -1,0 +1,2921 @@
+{
+    "maps": [
+        {
+            "objectID": "track-283217858",
+            "ID": 283217858,
+            "indexed_at": 1729100354,
+            "name": "Unknown Pond backpacking loop ",
+            "slug": "activity-october-15-2024-a89cf52",
+            "type": "track",
+            "_geoloc": {
+                "lat": 44.50638,
+                "lng": -71.33388
+            },
+            "length": 18904.95,
+            "elevation_gain": 757.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 10295071,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 5,
+            "rating": 5,
+            "photo_count": 3,
+            "popularity": 0.0646,
+            "hidden": 0,
+            "city_name": "Milan",
+            "state_name": "NH",
+            "country_name": "United States",
+            "created_at": "2024-10-13T14:15:13Z",
+            "timezone": "America/New_York",
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 443.0,
+            "distance": 18904.95,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-279472282",
+            "ID": 279472282,
+            "indexed_at": 1729100658,
+            "name": "Galehead summit",
+            "slug": "bethlehem-hiking-c0f971d-2",
+            "type": "track",
+            "_geoloc": {
+                "lat": 44.23246,
+                "lng": -71.61092
+            },
+            "length": 16387.61,
+            "elevation_gain": 816.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 10001763,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 5,
+            "rating": 5,
+            "photo_count": 0,
+            "popularity": 0.0616,
+            "hidden": 0,
+            "city_name": "Bethlehem",
+            "state_name": "NH",
+            "country_name": "United States",
+            "created_at": "2024-09-22T15:14:18Z",
+            "timezone": "America/Halifax",
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 346.0,
+            "distance": 16387.61,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-278059143",
+            "ID": 278059143,
+            "indexed_at": 1729100658,
+            "name": "Boston Hiking",
+            "slug": "boston-hiking-c37a212",
+            "type": "track",
+            "_geoloc": {
+                "lat": 42.367,
+                "lng": -71.12593
+            },
+            "length": 1421.97,
+            "elevation_gain": 222.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 0,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": null,
+            "rating": null,
+            "photo_count": 0,
+            "popularity": 0.037,
+            "hidden": 0,
+            "city_name": "Allston",
+            "state_name": "MA",
+            "country_name": "United States",
+            "created_at": "2024-09-15T15:19:18Z",
+            "timezone": "America/Halifax",
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 45.0,
+            "distance": 1421.97,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-275427305",
+            "ID": 275427305,
+            "indexed_at": 1729100658,
+            "name": "East Hampton Kayaking",
+            "slug": "east-hampton-kayaking-f6b6d2a",
+            "type": "track",
+            "_geoloc": {
+                "lat": 41.03337,
+                "lng": -71.94946
+            },
+            "length": 4542.93,
+            "elevation_gain": 6.0,
+            "activities": [],
+            "activity_names": [],
+            "trail_id": 0,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": null,
+            "rating": null,
+            "photo_count": 0,
+            "popularity": 0.037,
+            "hidden": 0,
+            "city_name": "Montauk",
+            "state_name": "NY",
+            "country_name": "United States",
+            "created_at": "2024-09-01T17:45:33Z",
+            "timezone": "America/Halifax",
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 83.0,
+            "distance": 4542.93,
+            "activity": {},
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-275201101",
+            "ID": 275201101,
+            "indexed_at": 1729100658,
+            "name": "East Hampton Surfing",
+            "slug": "east-hampton-surfing-3dd48ab",
+            "type": "track",
+            "_geoloc": {
+                "lat": 41.03909,
+                "lng": -71.90785
+            },
+            "length": 3709.11,
+            "elevation_gain": 2.0,
+            "activities": [],
+            "activity_names": [],
+            "trail_id": 0,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": null,
+            "rating": null,
+            "photo_count": 0,
+            "popularity": 0.037,
+            "hidden": 0,
+            "city_name": "Montauk",
+            "state_name": "NY",
+            "country_name": "United States",
+            "created_at": "2024-08-31T20:25:47Z",
+            "timezone": "America/Halifax",
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 51.0,
+            "distance": 3709.11,
+            "activity": {},
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-274967412",
+            "ID": 274967412,
+            "indexed_at": 1729100658,
+            "name": "East Hampton Running",
+            "slug": "east-hampton-running-948f847",
+            "type": "track",
+            "_geoloc": {
+                "lat": 41.0507,
+                "lng": -71.9445
+            },
+            "length": 3753.27,
+            "elevation_gain": 25.0,
+            "activities": [
+                "trail-running"
+            ],
+            "activity_names": [
+                "Running"
+            ],
+            "trail_id": 0,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": null,
+            "rating": null,
+            "photo_count": 0,
+            "popularity": 0.037,
+            "hidden": 0,
+            "city_name": "Montauk",
+            "state_name": "NY",
+            "country_name": "United States",
+            "created_at": "2024-08-30T21:51:33Z",
+            "timezone": "America/Halifax",
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 30.0,
+            "distance": 3753.27,
+            "activity": {
+                "uid": "trail-running",
+                "name": "trail-running"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-274109288",
+            "ID": 274109288,
+            "indexed_at": 1729100658,
+            "name": "Clallam County Hiking",
+            "slug": "clallam-county-hiking-b3f445b",
+            "type": "track",
+            "_geoloc": {
+                "lat": 48.29366,
+                "lng": -124.66547
+            },
+            "length": 17774.81,
+            "elevation_gain": 218.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 10016844,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": null,
+            "rating": null,
+            "photo_count": 0,
+            "popularity": 0.037,
+            "hidden": 0,
+            "city_name": "Neah Bay",
+            "state_name": "WA",
+            "country_name": "United States",
+            "created_at": "2024-08-24T22:19:04Z",
+            "timezone": "America/Phoenix",
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 432.0,
+            "distance": 17774.81,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-269579956",
+            "ID": 269579956,
+            "indexed_at": 1729100658,
+            "name": "Horn Peak summit ",
+            "slug": "afternoon-hike-17256f0-475",
+            "type": "track",
+            "_geoloc": {
+                "lat": 38.05468,
+                "lng": -105.53545
+            },
+            "length": 15948.08,
+            "elevation_gain": 1377.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 10041189,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 5,
+            "rating": 5,
+            "photo_count": 3,
+            "popularity": 0.0616,
+            "hidden": 0,
+            "city_name": "Westcliffe",
+            "state_name": "CO",
+            "country_name": "United States",
+            "created_at": "2024-08-02T12:54:15Z",
+            "timezone": "America/Denver",
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 393.0,
+            "distance": 15948.08,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-269260491",
+            "ID": 269260491,
+            "indexed_at": 1729100658,
+            "name": "Goodwin Lakes hike ",
+            "slug": "afternoon-hike-96c9745-491",
+            "type": "track",
+            "_geoloc": {
+                "lat": 38.09461,
+                "lng": -105.56248
+            },
+            "length": 16167.16,
+            "elevation_gain": 827.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 10028392,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 5,
+            "rating": 5,
+            "photo_count": 1,
+            "popularity": 0.0616,
+            "hidden": 0,
+            "city_name": "Westcliffe",
+            "state_name": "CO",
+            "country_name": "United States",
+            "created_at": "2024-07-31T15:24:06Z",
+            "timezone": "America/Denver",
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 293.0,
+            "distance": 16167.16,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-266286723",
+            "ID": 266286723,
+            "indexed_at": 1729100658,
+            "name": "Mount Hale round 2",
+            "slug": "afternoon-hike-ae0909a-442",
+            "type": "track",
+            "_geoloc": {
+                "lat": 44.23921,
+                "lng": -71.54996
+            },
+            "length": 11528.24,
+            "elevation_gain": 689.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 10734257,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 4,
+            "rating": 4,
+            "photo_count": 0,
+            "popularity": 0.0493,
+            "hidden": 0,
+            "city_name": "Bethlehem",
+            "state_name": "NH",
+            "country_name": "United States",
+            "created_at": "2024-07-14T16:14:57Z",
+            "timezone": "America/New_York",
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 214.0,
+            "distance": 11528.24,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-263198326",
+            "ID": 263198326,
+            "indexed_at": 1729100658,
+            "name": "Jay peak ",
+            "slug": "jay-peak-aa8fdbb",
+            "type": "track",
+            "_geoloc": {
+                "lat": 44.91269,
+                "lng": -72.50434
+            },
+            "length": 5490.78,
+            "elevation_gain": 496.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 10024064,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 5,
+            "rating": 5,
+            "photo_count": 0,
+            "popularity": 0.0616,
+            "hidden": 0,
+            "city_name": "Westfield",
+            "state_name": "VT",
+            "country_name": "United States",
+            "created_at": "2024-06-29T14:11:23Z",
+            "timezone": "America/New_York",
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 128.0,
+            "distance": 5490.78,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-261458928",
+            "ID": 261458928,
+            "indexed_at": 1729100658,
+            "name": "Osceolas",
+            "slug": "afternoon-hike-e2c6196-366",
+            "type": "track",
+            "_geoloc": {
+                "lat": 43.9834,
+                "lng": -71.55876
+            },
+            "length": 13045.2,
+            "elevation_gain": 873.0,
+            "activities": [],
+            "activity_names": [],
+            "trail_id": 10299288,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 4,
+            "rating": 4,
+            "photo_count": 0,
+            "popularity": 0.0493,
+            "hidden": 1,
+            "city_name": "Waterville Valley",
+            "state_name": "NH",
+            "country_name": "United States",
+            "created_at": "2024-06-19T12:52:24Z",
+            "timezone": "America/New_York",
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 314.0,
+            "distance": 13045.2,
+            "activity": {},
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-257515514",
+            "ID": 257515514,
+            "indexed_at": 1729100658,
+            "name": "Afternoon hike at Wachusett Mountain Old Indian, Stage Coach, Bicentennial Trails",
+            "slug": "afternoon-hike-at-wachusett-mountain-old-indian-stage-coach-bicentennial-trails-b71f5aa",
+            "type": "track",
+            "_geoloc": {
+                "lat": 42.4903,
+                "lng": -71.87982
+            },
+            "length": 8898.95,
+            "elevation_gain": 328.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 10263843,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 0,
+            "rating": 0,
+            "photo_count": 0,
+            "popularity": 0.0,
+            "hidden": 0,
+            "city_name": "Princeton",
+            "state_name": "MA",
+            "country_name": "United States",
+            "created_at": "2024-05-27T14:39:40Z",
+            "timezone": "America/New_York",
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 170.0,
+            "distance": 8898.95,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-222036467",
+            "ID": 222036467,
+            "indexed_at": 1729100658,
+            "name": "Afternoon trail run",
+            "slug": "afternoon-trail-run-51ef186-4",
+            "type": "track",
+            "_geoloc": {
+                "lat": 42.84333,
+                "lng": -72.08815
+            },
+            "length": 9174.55,
+            "elevation_gain": 559.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 10302142,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 0,
+            "rating": 0,
+            "photo_count": 0,
+            "popularity": 0.0,
+            "hidden": 0,
+            "city_name": "Jaffrey",
+            "state_name": "NH",
+            "country_name": "United States",
+            "created_at": "2023-12-02T15:47:44Z",
+            "timezone": "America/New_York",
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 261.0,
+            "distance": 9174.55,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-207531809",
+            "ID": 207531809,
+            "indexed_at": 1729100658,
+            "name": "Via Alpina Green Trail: Griesalp - Kandersteg (Hoturli and Oeschinensee)",
+            "slug": "evening-hike-at-via-alpina-green-trail-segment-12-griesalp-kandersteg-d5e705c",
+            "type": "track",
+            "_geoloc": {
+                "lat": 46.55053,
+                "lng": 7.76433
+            },
+            "length": 18620.41,
+            "elevation_gain": 1439.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 10403432,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 5,
+            "rating": 5,
+            "photo_count": 3,
+            "popularity": 0.0646,
+            "hidden": 0,
+            "city_name": "Kiental",
+            "state_name": null,
+            "country_name": "Switzerland",
+            "created_at": "2023-10-06T06:42:59Z",
+            "timezone": "Europe/Zurich",
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 411.0,
+            "distance": 18620.41,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-207114077",
+            "ID": 207114077,
+            "indexed_at": 1729100658,
+            "name": "Via Alpina: Murren - Griesalp",
+            "slug": "via-alpina-murren-griesalp-8df7c2e",
+            "type": "track",
+            "_geoloc": {
+                "lat": 46.56068,
+                "lng": 7.89587
+            },
+            "length": 16855.99,
+            "elevation_gain": 1040.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 10723950,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 5,
+            "rating": 5,
+            "photo_count": 3,
+            "popularity": 0.093,
+            "hidden": 0,
+            "city_name": "Mürren",
+            "state_name": null,
+            "country_name": "Switzerland",
+            "created_at": "2023-10-05T08:32:50Z",
+            "timezone": "Europe/Zurich",
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 335.0,
+            "distance": 16855.99,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-206629731",
+            "ID": 206629731,
+            "indexed_at": 1729100658,
+            "name": "Via Ferrata Murren-Gimmelwald",
+            "slug": "afternoon-hike-at-via-ferrata-murren-gimmelwald-70b8fe0",
+            "type": "track",
+            "_geoloc": {
+                "lat": 46.55907,
+                "lng": 7.89443
+            },
+            "length": 3010.26,
+            "elevation_gain": 38.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 10503760,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 5,
+            "rating": 5,
+            "photo_count": 4,
+            "popularity": 0.0626,
+            "hidden": 0,
+            "city_name": "Mürren",
+            "state_name": null,
+            "country_name": "Switzerland",
+            "created_at": "2023-10-04T09:59:41Z",
+            "timezone": "Europe/Zurich",
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 133.0,
+            "distance": 3010.26,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-206411627",
+            "ID": 206411627,
+            "indexed_at": 1729100658,
+            "name": "5 mile apple pie",
+            "slug": "evening-backpack-trip-1b69ebe",
+            "type": "track",
+            "_geoloc": {
+                "lat": 46.61339,
+                "lng": 8.0457
+            },
+            "length": 9020.2,
+            "elevation_gain": 936.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 10423485,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 5,
+            "rating": 5,
+            "photo_count": 2,
+            "popularity": 0.0616,
+            "hidden": 0,
+            "city_name": "Grindelwald",
+            "state_name": null,
+            "country_name": "Switzerland",
+            "created_at": "2023-10-03T12:14:51Z",
+            "timezone": "Europe/Zurich",
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 203.0,
+            "distance": 9020.2,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-206327593",
+            "ID": 206327593,
+            "indexed_at": 1729100658,
+            "name": "Wengen - Männlichen uphill",
+            "slug": "wengen-mannlichen-uphill-861dc9b",
+            "type": "track",
+            "_geoloc": {
+                "lat": 46.60917,
+                "lng": 7.91964
+            },
+            "length": 7433.22,
+            "elevation_gain": 1070.0,
+            "activities": [
+                "backpacking"
+            ],
+            "activity_names": [
+                "Backpacking"
+            ],
+            "trail_id": 10343765,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 5,
+            "rating": 5,
+            "photo_count": 1,
+            "popularity": 0.0626,
+            "hidden": 0,
+            "city_name": "Wengen",
+            "state_name": null,
+            "country_name": "Switzerland",
+            "created_at": "2023-10-02T12:03:15Z",
+            "timezone": "Europe/Zurich",
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 161.0,
+            "distance": 7433.22,
+            "activity": {
+                "uid": "backpacking",
+                "name": "backpacking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-193938126",
+            "ID": 193938126,
+            "indexed_at": 1729042208,
+            "name": "Mt Tom, Field, Willey, and Owl's Head via Wilderness Trail",
+            "slug": "willey-field-tom-and-owl-s-head-peakbagging-backpacking-48cb136",
+            "type": "track",
+            "_geoloc": {
+                "lat": 44.21733,
+                "lng": -71.41078
+            },
+            "length": 53026.27,
+            "elevation_gain": 1986.0,
+            "activities": [
+                "backpacking"
+            ],
+            "activity_names": [
+                "Backpacking"
+            ],
+            "trail_id": 0,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 4,
+            "rating": 4,
+            "photo_count": 5,
+            "popularity": 0.1609,
+            "hidden": 0,
+            "city_name": "Bretton Woods",
+            "state_name": "NH",
+            "country_name": "United States",
+            "created_at": "2023-08-19T11:28:09Z",
+            "timezone": "America/New_York",
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 1200.0,
+            "distance": 53026.27,
+            "activity": {
+                "uid": "backpacking",
+                "name": "backpacking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-186560541",
+            "ID": 186560541,
+            "indexed_at": 1729100658,
+            "name": "Presidential Traverse in one day",
+            "slug": "presidential-traverse-in-one-day-46ba9f2",
+            "type": "track",
+            "_geoloc": {
+                "lat": 44.37143,
+                "lng": -71.28931
+            },
+            "length": 34259.61,
+            "elevation_gain": 2684.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 10551868,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 5,
+            "rating": 5,
+            "photo_count": 0,
+            "popularity": 0.0616,
+            "hidden": 0,
+            "city_name": "Randolph",
+            "state_name": "NH",
+            "country_name": "United States",
+            "created_at": "2023-07-23T09:09:52Z",
+            "timezone": "America/New_York",
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 725.0,
+            "distance": 34259.61,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-185430097",
+            "ID": 185430097,
+            "indexed_at": 1729100658,
+            "name": "Evening run",
+            "slug": "evening-run-bd3ef5c-2",
+            "type": "track",
+            "_geoloc": {
+                "lat": 42.431,
+                "lng": -71.10787
+            },
+            "length": 2593.18,
+            "elevation_gain": 57.0,
+            "activities": [
+                "trail-running"
+            ],
+            "activity_names": [
+                "Running"
+            ],
+            "trail_id": 0,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 5,
+            "rating": 5,
+            "photo_count": 0,
+            "popularity": 0.0616,
+            "hidden": 0,
+            "city_name": "Medford",
+            "state_name": "MA",
+            "country_name": "United States",
+            "created_at": "2023-07-19T23:59:13Z",
+            "timezone": "America/New_York",
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 18.0,
+            "distance": 2593.18,
+            "activity": {
+                "uid": "trail-running",
+                "name": "trail-running"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-182679107",
+            "ID": 182679107,
+            "indexed_at": 1729100658,
+            "name": "Humboldt summit",
+            "slug": "humboldt-summit-1c208ee",
+            "type": "track",
+            "_geoloc": {
+                "lat": 37.97645,
+                "lng": -105.50558
+            },
+            "length": 19079.64,
+            "elevation_gain": 1305.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 10260451,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 5,
+            "rating": 5,
+            "photo_count": 1,
+            "popularity": 0.0626,
+            "hidden": 0,
+            "city_name": "Westcliffe",
+            "state_name": "CO",
+            "country_name": "United States",
+            "created_at": "2023-07-08T13:25:07Z",
+            "timezone": "America/Denver",
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 429.0,
+            "distance": 19079.64,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-182096955",
+            "ID": 182096955,
+            "indexed_at": 1729100658,
+            "name": "Afternoon hike at Goodwin Lakes Trail",
+            "slug": "afternoon-hike-at-goodwin-lakes-trail-8a88d5f",
+            "type": "track",
+            "_geoloc": {
+                "lat": 38.09417,
+                "lng": -105.57155
+            },
+            "length": 14057.38,
+            "elevation_gain": 738.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 10028392,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 5,
+            "rating": 5,
+            "photo_count": 1,
+            "popularity": 0.0616,
+            "hidden": 0,
+            "city_name": "Westcliffe",
+            "state_name": "CO",
+            "country_name": "United States",
+            "created_at": "2023-07-06T16:14:53Z",
+            "timezone": "America/Denver",
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 292.0,
+            "distance": 14057.38,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-175988612",
+            "ID": 175988612,
+            "indexed_at": 1729100658,
+            "name": "Old Speck Mountain in the rain",
+            "slug": "old-speck-mountain-in-the-rain-45f6a4a",
+            "type": "track",
+            "_geoloc": {
+                "lat": 44.58982,
+                "lng": -70.9478
+            },
+            "length": 13482.81,
+            "elevation_gain": 1036.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 10015844,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 5,
+            "rating": 5,
+            "photo_count": 1,
+            "popularity": 0.0692,
+            "hidden": 0,
+            "city_name": "Newry",
+            "state_name": "ME",
+            "country_name": "United States",
+            "created_at": "2023-06-10T14:24:40Z",
+            "timezone": "America/New_York",
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 371.0,
+            "distance": 13482.81,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-174684643",
+            "ID": 174684643,
+            "indexed_at": 1729100658,
+            "name": "Carter-Wildcat Peakbagging traverse",
+            "slug": "evening-hike-at-carter-hight-peakbagging-traverse-1d38dd9",
+            "type": "track",
+            "_geoloc": {
+                "lat": 44.31976,
+                "lng": -71.21699
+            },
+            "length": 23769.74,
+            "elevation_gain": 1786.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 10702205,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 2,
+            "rating": 2,
+            "photo_count": 1,
+            "popularity": 0.025,
+            "hidden": 1,
+            "city_name": "Gorham",
+            "state_name": "NH",
+            "country_name": "United States",
+            "created_at": "2023-06-04T13:27:07Z",
+            "timezone": "America/New_York",
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 498.0,
+            "distance": 23769.74,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-173363580",
+            "ID": 173363580,
+            "indexed_at": 1729100659,
+            "name": "Blue Hills Skyline Trail both ways",
+            "slug": "evening-hike-at-blue-hills-skyline-trail-cc02d42",
+            "type": "track",
+            "_geoloc": {
+                "lat": 42.2339,
+                "lng": -71.02928
+            },
+            "length": 26061.61,
+            "elevation_gain": 1083.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 10111241,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 5,
+            "rating": 5,
+            "photo_count": 0,
+            "popularity": 0.0616,
+            "hidden": 0,
+            "city_name": "Quincy",
+            "state_name": "MA",
+            "country_name": "United States",
+            "created_at": "2023-05-29T13:56:45Z",
+            "timezone": "America/New_York",
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 451.0,
+            "distance": 26061.61,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-170045287",
+            "ID": 170045287,
+            "indexed_at": 1729100659,
+            "name": "Monadnock Training",
+            "slug": "monadnock-training-fdda6e9",
+            "type": "track",
+            "_geoloc": {
+                "lat": 42.84404,
+                "lng": -72.08693
+            },
+            "length": 16167.35,
+            "elevation_gain": 1086.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 10338631,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 5,
+            "rating": 5,
+            "photo_count": 0,
+            "popularity": 0.0616,
+            "hidden": 0,
+            "city_name": "Jaffrey",
+            "state_name": "NH",
+            "country_name": "United States",
+            "created_at": "2023-05-14T14:09:37Z",
+            "timezone": "America/New_York",
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 400.0,
+            "distance": 16167.35,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-168150379",
+            "ID": 168150379,
+            "indexed_at": 1729100659,
+            "name": "Rainforest summit",
+            "slug": "afternoon-snowshoe-201e5ba--5",
+            "type": "track",
+            "_geoloc": {
+                "lat": 18.30516,
+                "lng": -65.79164
+            },
+            "length": 2396.26,
+            "elevation_gain": 31.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 10266748,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 5,
+            "rating": 5,
+            "photo_count": 0,
+            "popularity": 0.0616,
+            "hidden": 0,
+            "city_name": "Río Grande",
+            "state_name": null,
+            "country_name": "Puerto Rico",
+            "created_at": "2023-02-27T17:18:11Z",
+            "timezone": "America/New_York",
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 43.0,
+            "distance": 2396.26,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-165062331",
+            "ID": 165062331,
+            "indexed_at": 1729100659,
+            "name": "Afternoon hike at Mount Shaw and Black Snout",
+            "slug": "afternoon-hike-at-mount-shaw-and-black-snout-faacbcd",
+            "type": "track",
+            "_geoloc": {
+                "lat": 43.71111,
+                "lng": -71.29165
+            },
+            "length": 12223.96,
+            "elevation_gain": 727.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 10254795,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 4,
+            "rating": 4,
+            "photo_count": 0,
+            "popularity": 0.0493,
+            "hidden": 0,
+            "city_name": "Center Tuftonboro",
+            "state_name": "NH",
+            "country_name": "United States",
+            "created_at": "2023-04-15T13:58:41Z",
+            "timezone": "America/New_York",
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 240.0,
+            "distance": 12223.96,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-161000438",
+            "ID": 161000438,
+            "indexed_at": 1729100659,
+            "name": "Winter hike at Mount Cabot via Bunnell Notch Trail",
+            "slug": "winter-hike-at-mount-cabot-via-bunnell-notch-trail-ab49ef7",
+            "type": "track",
+            "_geoloc": {
+                "lat": 44.49818,
+                "lng": -71.35837
+            },
+            "length": 15655.57,
+            "elevation_gain": 868.0,
+            "activities": [
+                "snowshoeing"
+            ],
+            "activity_names": [
+                "Snowshoeing"
+            ],
+            "trail_id": 10015689,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 5,
+            "rating": 5,
+            "photo_count": 2,
+            "popularity": 0.0636,
+            "hidden": 0,
+            "city_name": "Milan",
+            "state_name": "NH",
+            "country_name": "United States",
+            "created_at": "2023-02-11T14:40:11Z",
+            "timezone": "America/New_York",
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 292.0,
+            "distance": 15655.57,
+            "activity": {
+                "uid": "snowshoeing",
+                "name": "snowshoeing"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-152294529",
+            "ID": 152294529,
+            "indexed_at": 1729100659,
+            "name": "Bailing from Paugus and attempting something else",
+            "slug": "bailing-from-paugus-and-attempting-something-else-550a141",
+            "type": "track",
+            "_geoloc": {
+                "lat": 43.91744,
+                "lng": -71.29335
+            },
+            "length": 9729.37,
+            "elevation_gain": 484.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 10010750,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 3,
+            "rating": 3,
+            "photo_count": 0,
+            "popularity": 0.037,
+            "hidden": 0,
+            "city_name": "Albany",
+            "state_name": "NH",
+            "country_name": "United States",
+            "created_at": "2023-01-08T15:05:34Z",
+            "timezone": "America/New_York",
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 188.0,
+            "distance": 9729.37,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-141981639",
+            "ID": 141981639,
+            "indexed_at": 1729100659,
+            "name": "Tecumseh",
+            "slug": "recording-oct-09-04-36-pm-f50fb34",
+            "type": "track",
+            "_geoloc": {
+                "lat": 43.99127,
+                "lng": -71.57841
+            },
+            "length": 9066.24,
+            "elevation_gain": 740.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 10112131,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 4,
+            "rating": 4,
+            "photo_count": 0,
+            "popularity": 0.0493,
+            "hidden": 0,
+            "city_name": "Waterville Valley",
+            "state_name": "NH",
+            "country_name": "United States",
+            "created_at": "2022-10-09T17:10:30Z",
+            "timezone": null,
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 167.0,
+            "distance": 9066.24,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-140796707",
+            "ID": 140796707,
+            "indexed_at": 1729100659,
+            "name": "Hancocks - Oct 01",
+            "slug": "recording-oct-01-02-11-pm-b33128c",
+            "type": "track",
+            "_geoloc": {
+                "lat": 44.04126,
+                "lng": -71.52368
+            },
+            "length": 15088.01,
+            "elevation_gain": 807.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 10006204,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 5,
+            "rating": 5,
+            "photo_count": 0,
+            "popularity": 0.0616,
+            "hidden": 0,
+            "city_name": "Lincoln",
+            "state_name": "NH",
+            "country_name": "United States",
+            "created_at": "2022-10-01T12:36:42Z",
+            "timezone": null,
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 255.0,
+            "distance": 15088.01,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-140796352",
+            "ID": 140796352,
+            "indexed_at": 1729100659,
+            "name": "Tripyramids - Oct 02",
+            "slug": "recording-oct-02-02-10-pm-19bc916",
+            "type": "track",
+            "_geoloc": {
+                "lat": 44.00189,
+                "lng": -71.41321
+            },
+            "length": 15737.08,
+            "elevation_gain": 1059.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 10112178,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 5,
+            "rating": 5,
+            "photo_count": 0,
+            "popularity": 0.0616,
+            "hidden": 0,
+            "city_name": "Waterville Valley",
+            "state_name": "NH",
+            "country_name": "United States",
+            "created_at": "2022-10-02T11:40:03Z",
+            "timezone": null,
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 309.0,
+            "distance": 15737.08,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-134771349",
+            "ID": 134771349,
+            "indexed_at": 1729100659,
+            "name": "Isolation",
+            "slug": "recording-aug-28-06-53-pm-af87f7c",
+            "type": "track",
+            "_geoloc": {
+                "lat": 44.20415,
+                "lng": -71.24368
+            },
+            "length": 23845.51,
+            "elevation_gain": 1168.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 10014780,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 4,
+            "rating": 4,
+            "photo_count": 0,
+            "popularity": 0.0493,
+            "hidden": 0,
+            "city_name": "Jackson",
+            "state_name": "NH",
+            "country_name": "United States",
+            "created_at": "2022-08-28T13:50:37Z",
+            "timezone": null,
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 479.0,
+            "distance": 23845.51,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-133145054",
+            "ID": 133145054,
+            "indexed_at": 1729100659,
+            "name": "Recording - Aug 20, 05:33 PM",
+            "slug": "recording-aug-20-05-33-pm-1f187c8",
+            "type": "track",
+            "_geoloc": {
+                "lat": 44.18905,
+                "lng": -73.81583
+            },
+            "length": 12086.85,
+            "elevation_gain": 953.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 10268714,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 5,
+            "rating": 5,
+            "photo_count": 0,
+            "popularity": 0.0616,
+            "hidden": 0,
+            "city_name": "Keene Valley",
+            "state_name": "NY",
+            "country_name": "United States",
+            "created_at": "2022-08-20T14:14:01Z",
+            "timezone": null,
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 253.0,
+            "distance": 12086.85,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-129477098",
+            "ID": 129477098,
+            "indexed_at": 1729100659,
+            "name": "Recording - Jul 31, 05:00 PM",
+            "slug": "recording-jul-31-05-00-pm-2e9777b",
+            "type": "track",
+            "_geoloc": {
+                "lat": 43.98467,
+                "lng": -71.55734
+            },
+            "length": 12431.85,
+            "elevation_gain": 865.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 10299288,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 4,
+            "rating": 4,
+            "photo_count": 1,
+            "popularity": 0.0501,
+            "hidden": 0,
+            "city_name": "Waterville Valley",
+            "state_name": "NH",
+            "country_name": "United States",
+            "created_at": "2022-07-31T15:27:12Z",
+            "timezone": null,
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 262.0,
+            "distance": 12431.85,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-125557669",
+            "ID": 125557669,
+            "indexed_at": 1729100659,
+            "name": "Recording - Jul 08, 05:21 PM",
+            "slug": "recording-jul-08-05-21-pm-217f5e7",
+            "type": "track",
+            "_geoloc": {
+                "lat": 51.17698,
+                "lng": -115.55974
+            },
+            "length": 3774.3,
+            "elevation_gain": 355.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 10018401,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 5,
+            "rating": 5,
+            "photo_count": 0,
+            "popularity": 0.0616,
+            "hidden": 1,
+            "city_name": "Improvement District No. 09",
+            "state_name": "AB",
+            "country_name": "Canada",
+            "created_at": "2022-07-08T22:18:56Z",
+            "timezone": null,
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 59.0,
+            "distance": 3774.3,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-125557660",
+            "ID": 125557660,
+            "indexed_at": 1729100659,
+            "name": "Recording - Jul 09, 02:42 PM",
+            "slug": "recording-jul-09-02-42-pm-681a23b",
+            "type": "track",
+            "_geoloc": {
+                "lat": 51.16526,
+                "lng": -115.55973
+            },
+            "length": 13472.07,
+            "elevation_gain": 1628.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 10257467,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 5,
+            "rating": 5,
+            "photo_count": 1,
+            "popularity": 0.0626,
+            "hidden": 1,
+            "city_name": "Banff",
+            "state_name": "AB",
+            "country_name": "Canada",
+            "created_at": "2022-07-09T12:51:10Z",
+            "timezone": null,
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 391.0,
+            "distance": 13472.07,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-125557652",
+            "ID": 125557652,
+            "indexed_at": 1729100659,
+            "name": "Recording - Jul 09, 07:18 PM",
+            "slug": "recording-jul-09-07-18-pm-82f292a",
+            "type": "track",
+            "_geoloc": {
+                "lat": 51.25862,
+                "lng": -115.85742
+            },
+            "length": 6998.39,
+            "elevation_gain": 407.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 10289429,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 3,
+            "rating": 3,
+            "photo_count": 0,
+            "popularity": 0.037,
+            "hidden": 1,
+            "city_name": "Improvement District No. 09",
+            "state_name": "AB",
+            "country_name": "Canada",
+            "created_at": "2022-07-09T23:28:39Z",
+            "timezone": null,
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 109.0,
+            "distance": 6998.39,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-125557637",
+            "ID": 125557637,
+            "indexed_at": 1729100659,
+            "name": "Recording - Jul 10, 08:08 AM",
+            "slug": "recording-jul-10-08-08-am-63c17d5",
+            "type": "track",
+            "_geoloc": {
+                "lat": 51.29448,
+                "lng": -115.8238
+            },
+            "length": 6324.79,
+            "elevation_gain": 80.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 0,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 4,
+            "rating": 4,
+            "photo_count": 0,
+            "popularity": 0.0493,
+            "hidden": 1,
+            "city_name": "Improvement District No. 09",
+            "state_name": "AB",
+            "country_name": "Canada",
+            "created_at": "2022-07-10T12:49:51Z",
+            "timezone": null,
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 78.0,
+            "distance": 6324.79,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-124695503",
+            "ID": 124695503,
+            "indexed_at": 1729100659,
+            "name": "Recording - Jul 04, 11:15 AM",
+            "slug": "recording-jul-04-11-15-am-b91f5a1",
+            "type": "track",
+            "_geoloc": {
+                "lat": 47.86245,
+                "lng": -123.93071
+            },
+            "length": 15208.42,
+            "elevation_gain": 135.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 11121940,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 5,
+            "rating": 5,
+            "photo_count": 0,
+            "popularity": 0.0616,
+            "hidden": 1,
+            "city_name": "Forks",
+            "state_name": "WA",
+            "country_name": "United States",
+            "created_at": "2022-07-02T16:58:35Z",
+            "timezone": null,
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 321.0,
+            "distance": 15208.42,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-122965914",
+            "ID": 122965914,
+            "indexed_at": 1729100659,
+            "name": "Recording - Jun 26, 04:31 PM",
+            "slug": "recording-jun-26-04-31-pm-7551617",
+            "type": "track",
+            "_geoloc": {
+                "lat": 44.15826,
+                "lng": -71.7489
+            },
+            "length": 11190.46,
+            "elevation_gain": 822.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 10010066,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 5,
+            "rating": 5,
+            "photo_count": 0,
+            "popularity": 0.0616,
+            "hidden": 1,
+            "city_name": "Easton",
+            "state_name": "NH",
+            "country_name": "United States",
+            "created_at": "2022-06-26T15:06:21Z",
+            "timezone": null,
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 313.0,
+            "distance": 11190.46,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-103787487",
+            "ID": 103787487,
+            "indexed_at": 1729100659,
+            "name": "Recording - Feb 08, 11:09 AM",
+            "slug": "recording-feb-08-11-09-am-f5f9602",
+            "type": "track",
+            "_geoloc": {
+                "lat": 20.74152,
+                "lng": -156.21761
+            },
+            "length": 6227.2,
+            "elevation_gain": 542.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 10011093,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 5,
+            "rating": 5,
+            "photo_count": 0,
+            "popularity": 0.0616,
+            "hidden": 0,
+            "city_name": "Kula",
+            "state_name": "HI",
+            "country_name": "United States",
+            "created_at": "2022-02-08T18:53:48Z",
+            "timezone": null,
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 102.0,
+            "distance": 6227.2,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-85833520",
+            "ID": 85833520,
+            "indexed_at": 1729100659,
+            "name": "Recording - Aug 28, 06:18 PM",
+            "slug": "recording-aug-28-06-18-pm-d28a309",
+            "type": "track",
+            "_geoloc": {
+                "lat": 44.07,
+                "lng": -71.38374
+            },
+            "length": 24065.56,
+            "elevation_gain": 1346.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 10414194,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 5,
+            "rating": 5,
+            "photo_count": 1,
+            "popularity": 0.0626,
+            "hidden": 0,
+            "city_name": "Lincoln",
+            "state_name": "NH",
+            "country_name": "United States",
+            "created_at": "2021-08-28T13:22:22Z",
+            "timezone": null,
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 449.0,
+            "distance": 24065.56,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-85668492",
+            "ID": 85668492,
+            "indexed_at": 1729100659,
+            "name": "Recording - Aug 27, 06:45 PM",
+            "slug": "recording-aug-27-06-45-pm-985e9a4",
+            "type": "track",
+            "_geoloc": {
+                "lat": 44.24555,
+                "lng": -71.25351
+            },
+            "length": 8502.43,
+            "elevation_gain": 687.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 10360523,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 5,
+            "rating": 5,
+            "photo_count": 0,
+            "popularity": 0.0616,
+            "hidden": 0,
+            "city_name": "Gorham",
+            "state_name": "NH",
+            "country_name": "United States",
+            "created_at": "2021-08-27T18:26:58Z",
+            "timezone": null,
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 196.0,
+            "distance": 8502.43,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-85604771",
+            "ID": 85604771,
+            "indexed_at": 1729100659,
+            "name": "Recording - Aug 27, 01:40 PM",
+            "slug": "recording-aug-27-01-40-pm-0e9d935",
+            "type": "track",
+            "_geoloc": {
+                "lat": 44.38327,
+                "lng": -71.16895
+            },
+            "length": 14370.48,
+            "elevation_gain": 1000.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 10111798,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 5,
+            "rating": 5,
+            "photo_count": 1,
+            "popularity": 0.0616,
+            "hidden": 0,
+            "city_name": "Gorham",
+            "state_name": "NH",
+            "country_name": "United States",
+            "created_at": "2021-08-27T12:51:58Z",
+            "timezone": null,
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 253.0,
+            "distance": 14370.48,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-83982354",
+            "ID": 83982354,
+            "indexed_at": 1729100659,
+            "name": "Mt Hale - Aug 15",
+            "slug": "recording-aug-15-12-22-pm-6fae4e7",
+            "type": "track",
+            "_geoloc": {
+                "lat": 44.23635,
+                "lng": -71.48756
+            },
+            "length": 6605.46,
+            "elevation_gain": 686.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 10041715,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 5,
+            "rating": 5,
+            "photo_count": 0,
+            "popularity": 0.0616,
+            "hidden": 0,
+            "city_name": "Bethlehem",
+            "state_name": "NH",
+            "country_name": "United States",
+            "created_at": "2021-08-15T14:25:35Z",
+            "timezone": null,
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 105.0,
+            "distance": 6605.46,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-83798886",
+            "ID": 83798886,
+            "indexed_at": 1729100659,
+            "name": "Recording - Aug 14, 01:01 PM",
+            "slug": "recording-aug-14-01-01-pm-6b4e2b9",
+            "type": "track",
+            "_geoloc": {
+                "lat": 44.41938,
+                "lng": -71.46547
+            },
+            "length": 10955.25,
+            "elevation_gain": 806.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 10111799,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 4,
+            "rating": 4,
+            "photo_count": 0,
+            "popularity": 0.0493,
+            "hidden": 0,
+            "city_name": "Jefferson",
+            "state_name": "NH",
+            "country_name": "United States",
+            "created_at": "2021-08-14T14:05:18Z",
+            "timezone": null,
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 164.0,
+            "distance": 10955.25,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-83713628",
+            "ID": 83713628,
+            "indexed_at": 1729100659,
+            "name": "Recording - Aug 12, 07:44 PM",
+            "slug": "recording-aug-12-07-44-pm-3ba9af1",
+            "type": "track",
+            "_geoloc": {
+                "lat": 44.22494,
+                "lng": -71.47828
+            },
+            "length": 18584.79,
+            "elevation_gain": 1173.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 10473617,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 5,
+            "rating": 5,
+            "photo_count": 1,
+            "popularity": 0.0616,
+            "hidden": 1,
+            "city_name": "Bethlehem",
+            "state_name": "NH",
+            "country_name": "United States",
+            "created_at": "2021-08-12T12:10:02Z",
+            "timezone": null,
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 421.0,
+            "distance": 18584.79,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-83682780",
+            "ID": 83682780,
+            "indexed_at": 1729100659,
+            "name": "Recording - Aug 13, 02:53 PM",
+            "slug": "recording-aug-13-02-53-pm-c6969ae",
+            "type": "track",
+            "_geoloc": {
+                "lat": 44.17911,
+                "lng": -71.54889
+            },
+            "length": 16692.52,
+            "elevation_gain": 308.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 10260508,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 5,
+            "rating": 5,
+            "photo_count": 1,
+            "popularity": 0.0616,
+            "hidden": 1,
+            "city_name": "Franconia",
+            "state_name": "NH",
+            "country_name": "United States",
+            "created_at": "2021-08-13T10:40:42Z",
+            "timezone": null,
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 415.0,
+            "distance": 16692.52,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-83302409",
+            "ID": 83302409,
+            "indexed_at": 1729100659,
+            "name": "Recording - Aug 10, 05:29 PM",
+            "slug": "recording-aug-10-05-29-pm-475cc02",
+            "type": "track",
+            "_geoloc": {
+                "lat": 43.9936,
+                "lng": -71.18379
+            },
+            "length": 9249.4,
+            "elevation_gain": 588.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 10325104,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 5,
+            "rating": 5,
+            "photo_count": 0,
+            "popularity": 0.0616,
+            "hidden": 0,
+            "city_name": "Albany",
+            "state_name": "NH",
+            "country_name": "United States",
+            "created_at": "2021-08-10T17:30:21Z",
+            "timezone": null,
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 160.0,
+            "distance": 9249.4,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-83036528",
+            "ID": 83036528,
+            "indexed_at": 1729100659,
+            "name": "Recording - Aug 08, 06:39 PM",
+            "slug": "recording-aug-08-06-39-pm-bfe6caa",
+            "type": "track",
+            "_geoloc": {
+                "lat": 43.71103,
+                "lng": -71.2919
+            },
+            "length": 12201.43,
+            "elevation_gain": 764.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 10304900,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 4,
+            "rating": 4,
+            "photo_count": 0,
+            "popularity": 0.0493,
+            "hidden": 0,
+            "city_name": "Tuftonboro",
+            "state_name": "NH",
+            "country_name": "United States",
+            "created_at": "2021-08-08T18:16:49Z",
+            "timezone": null,
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 186.0,
+            "distance": 12201.43,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-82851460",
+            "ID": 82851460,
+            "indexed_at": 1729100659,
+            "name": "Recording - Aug 07, 06:07 PM",
+            "slug": "recording-aug-07-06-07-pm-4fc8480",
+            "type": "track",
+            "_geoloc": {
+                "lat": 43.92364,
+                "lng": -71.28262
+            },
+            "length": 12013.79,
+            "elevation_gain": 696.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 10010750,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 5,
+            "rating": 5,
+            "photo_count": 3,
+            "popularity": 0.0616,
+            "hidden": 0,
+            "city_name": "Albany",
+            "state_name": "NH",
+            "country_name": "United States",
+            "created_at": "2021-08-07T17:50:20Z",
+            "timezone": null,
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 212.0,
+            "distance": 12013.79,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-81959905",
+            "ID": 81959905,
+            "indexed_at": 1729100659,
+            "name": "Recording - Aug 01, 03:05 PM",
+            "slug": "recording-aug-01-03-05-pm-894db62",
+            "type": "track",
+            "_geoloc": {
+                "lat": 43.91305,
+                "lng": -71.3583
+            },
+            "length": 17007.5,
+            "elevation_gain": 1232.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 10112242,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 4,
+            "rating": 4,
+            "photo_count": 1,
+            "popularity": 0.0493,
+            "hidden": 1,
+            "city_name": "Wonalancet",
+            "state_name": "NH",
+            "country_name": "United States",
+            "created_at": "2021-08-01T12:10:14Z",
+            "timezone": null,
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 396.0,
+            "distance": 17007.5,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-57300642",
+            "ID": 57300642,
+            "indexed_at": 1729100660,
+            "name": "Recording - Nov 21, 04:38 PM",
+            "slug": "recording-nov-21-04-38-pm-c88d8d0",
+            "type": "track",
+            "_geoloc": {
+                "lat": 43.3501,
+                "lng": -71.90254
+            },
+            "length": 16120.76,
+            "elevation_gain": 698.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 10322267,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 4,
+            "rating": 4,
+            "photo_count": 2,
+            "popularity": 0.0225,
+            "hidden": 0,
+            "city_name": "North Sutton",
+            "state_name": "NH",
+            "country_name": "United States",
+            "created_at": "2020-11-21T16:50:00Z",
+            "timezone": null,
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 247.0,
+            "distance": 16120.76,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-56687402",
+            "ID": 56687402,
+            "indexed_at": 1729100660,
+            "name": "Recording - Sep 12, 08:10 PM",
+            "slug": "recording-sep-12-08-10-pm-e8d92f9",
+            "type": "track",
+            "_geoloc": {
+                "lat": 44.1671,
+                "lng": -71.68901
+            },
+            "length": 17747.52,
+            "elevation_gain": 1544.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 10314365,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 5,
+            "rating": 5,
+            "photo_count": 0,
+            "popularity": 0.0616,
+            "hidden": 0,
+            "city_name": "Franconia",
+            "state_name": "NH",
+            "country_name": "United States",
+            "created_at": "2020-09-12T14:56:52Z",
+            "timezone": null,
+            "units": "i",
+            "missing_polyline": false,
+            "private": true,
+            "duration_minutes": 432.0,
+            "distance": 17747.52,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:private"
+        },
+        {
+            "objectID": "track-56671155",
+            "ID": 56671155,
+            "indexed_at": 1729100660,
+            "name": "Recording - Nov 11, 03:34 PM",
+            "slug": "recording-nov-11-03-34-pm-3623874",
+            "type": "track",
+            "_geoloc": {
+                "lat": 42.23426,
+                "lng": -71.03218
+            },
+            "length": 7956.17,
+            "elevation_gain": 200.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 10276956,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 4,
+            "rating": 4,
+            "photo_count": 2,
+            "popularity": 0.0509,
+            "hidden": 0,
+            "city_name": "Quincy",
+            "state_name": "MA",
+            "country_name": "United States",
+            "created_at": "2020-11-11T17:53:37Z",
+            "timezone": null,
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 128.0,
+            "distance": 7956.17,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-52222240",
+            "ID": 52222240,
+            "indexed_at": 1729100660,
+            "name": "Recording - Sep 13, 03:25 PM",
+            "slug": "recording-sep-13-03-25-pm-71969a8",
+            "type": "track",
+            "_geoloc": {
+                "lat": 44.12023,
+                "lng": -71.68284
+            },
+            "length": 4339.23,
+            "elevation_gain": 183.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 10002760,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 5,
+            "rating": 5,
+            "photo_count": 0,
+            "popularity": 0.0636,
+            "hidden": 0,
+            "city_name": "Lincoln",
+            "state_name": "NH",
+            "country_name": "United States",
+            "created_at": "2020-09-13T16:36:29Z",
+            "timezone": null,
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 119.0,
+            "distance": 4339.23,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        },
+        {
+            "objectID": "track-47703643",
+            "ID": 47703643,
+            "indexed_at": 1729100660,
+            "name": "Recording - Jul 25, 07:02 PM",
+            "slug": "recording-jul-25-07-02-pm-0d98b59",
+            "type": "track",
+            "_geoloc": {
+                "lat": 43.98143,
+                "lng": -71.82442
+            },
+            "length": 15706.44,
+            "elevation_gain": 859.0,
+            "activities": [
+                "hiking"
+            ],
+            "activity_names": [
+                "Hiking"
+            ],
+            "trail_id": 10017308,
+            "user": {
+                "id": 29754908,
+                "first_name": "Chris",
+                "last_name": "Lentner",
+                "slug": "chris-lentner",
+                "profile_photo_url": "https://cdn-assets.alltrails.com/assets/placeholder/profile/background/mountain_light.png"
+            },
+            "avg_rating": 5,
+            "rating": 5,
+            "photo_count": 0,
+            "popularity": 0.0616,
+            "hidden": 0,
+            "city_name": "Warren",
+            "state_name": "NH",
+            "country_name": "United States",
+            "created_at": "2020-07-25T17:14:59Z",
+            "timezone": null,
+            "units": "i",
+            "missing_polyline": false,
+            "private": false,
+            "duration_minutes": 267.0,
+            "distance": 15706.44,
+            "activity": {
+                "uid": "hiking",
+                "name": "hiking"
+            },
+            "contentPrivacy": "urn:alltrails:visibility:public"
+        }
+    ],
+    "meta": {
+        "status": "ok",
+        "items": 61,
+        "timestamp": "2024-10-16T17:44:20Z"
+    },
+    "pageInfo": {
+        "totalItemCount": 61,
+        "itemCount": 61,
+        "hasNextPage": false
+    }
+}
